@@ -1,2 +1,2 @@
 # Rose3D
-Long term personal project. 
+created by Matthew Rosen
